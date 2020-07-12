@@ -1,6 +1,6 @@
 # ETL-on-data
 
-Data Science Projects Using Python and google colab for ETL process
+Data Science Projects Using Python and google colab for EDA process
 
 This repository is a place to share code and notebooks for data science projects.
 
